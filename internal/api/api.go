@@ -24,7 +24,7 @@ const (
 	urlToken     = "https://oauth2.googleapis.com/token"
 	urlAuth      = "https://accounts.google.com/o/oauth2/v2/auth"
 	urlUserInfo  = "https://www.googleapis.com/oauth2/v2/userinfo"
-	urlQuota     = "https://cloudcode-pa.googleapis.com/v1internal:fetchAvailableModels"
+	urlQuota     = "https://daily-cloudcode-pa.sandbox.googleapis.com/v1internal:fetchAvailableModels"
 	urlProject   = "https://cloudcode-pa.googleapis.com/v1internal:loadCodeAssist"
 )
 
